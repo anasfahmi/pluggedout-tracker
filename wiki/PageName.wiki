@@ -1,5 +1,4 @@
 #summary Introduction to PluggedOut Tracker
-#labels e
 
 = Introduction =
 
@@ -11,13 +10,13 @@ It is being designed with the Smarty templating engine to allow easy customisati
 
 = Details =
 
-Developed with
+==Developed with...==
 
-- PHP 5
-- MySQL 5
-- Smarty
+* PHP 5
+* MySQL 5
+* Smarty
 
 
-Developed By
+==Developed by...==
 
-- Jonathan Beckett
+* [JonathanBeckett Jonathan Beckett]
