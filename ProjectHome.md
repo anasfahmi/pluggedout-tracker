@@ -1,0 +1,3 @@
+PluggedOut Trackers is a project to make an open ended request tracking system, for all kinds of tracking uses. It will be perfect for helpdesk applications, trouble tickets, feature requests, bug tracking, and any similar request/response systems.
+
+It is being designed with the Smarty templating engine to allow easy customisation of the web interface.
